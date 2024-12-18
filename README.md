@@ -7,7 +7,15 @@
 - 🛠️ Languages: Java, Python and JavaScript  
 - ⚡ Performance Testing with [JMeter](https://jmeter.apache.org) and [k6](https://k6.io).  
 - 🌱 Currently learning AI-driven test generation and advanced load testing techniques.  
-- 🌟 Open-source enthusiast and contributor to testing tools.  
+- 🌟 Open-source enthusiast and contributor to testing tools.
+
+### 🤝 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sailesh-kumar-5b7650251//">
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  </a>
+</p>
 
 ---
 
