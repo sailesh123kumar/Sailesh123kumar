@@ -52,5 +52,16 @@
 - **LinkedIn**: [linkedin.com/in/saileshkumar](https://www.linkedin.com/in/sailesh-kumar-5b7650251/)
 
 ---
+---
 
+## 📊 GitHub Stats  
+
+| **Metric**                | **Details**                                                                                         |
+|---------------------------|-----------------------------------------------------------------------------------------------------|
+| **🏆 Total Contributions** | ![Contributions](https://github-readme-stats.vercel.app/api?username=Sailesh123kumar&show_icons=true&count_private=true&hide=prs&theme=radical) |
+| **📂 Languages Used**      | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sailesh123kumar&layout=compact&theme=radical)                |
+| **⭐ Total Stars**          | ![Stars](https://github-readme-stats.vercel.app/api?username=Sailesh123kumar&show_icons=true&count_private=true&hide=stars&theme=radical)  |
+| **🔥 Streak Stats**        | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sailesh123kumar&theme=radical)                                         |
+
+---
 Feel free to fork or explore my repositories to see how I build robust, scalable, and efficient automation solutions! ✨  
