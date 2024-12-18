@@ -13,7 +13,7 @@
 
 ### 🚀 Highlighted Projects  
 
-- [**E2E-Test-Automation-Framework**](https://github.com/yourusername/E2E-Test-Automation-Framework):  
+- [**E2E-Test-UI-Automation-Framework**](https://github.com/sailesh123kumar/OpenCartAutomationFrameWork):  
   A customizable test automation framework using Selenium and TestNG for web applications.  
 
 - [**API-Testing-Suite**](https://github.com/yourusername/API-Testing-Suite):  
