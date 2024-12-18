@@ -46,7 +46,7 @@
 ### 📫 Contact Me  
 
 - **Email**: [your.email@example.com](mailto: saileshkumar17893@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/sailesh-kumar-5b7650251/))  
+- **LinkedIn**: [linkedin.com/in/saileshkumar](https://www.linkedin.com/in/sailesh-kumar-5b7650251/)
 
 ---
 
