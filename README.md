@@ -16,11 +16,11 @@
 - [**E2E-Test-UI-Automation-Framework**](https://github.com/sailesh123kumar/OpenCartAutomationFrameWork):  
   A customizable test automation framework using Selenium and TestNG for web applications.  
 
-- [**API-Testing-Suite**](https://github.com/yourusername/API-Testing-Suite):  
+- [**API-Testing-Suite**](https://github.com/sailesh123kumar/APIFrameWork):  
   Comprehensive REST and GraphQL API test suite using **REST Assured** and **Postman/Newman**.  
 
 - [**Performance-Test-Scripts**](https://github.com/yourusername/Performance-Test-Scripts):  
-  Load and stress testing for APIs and microservices with **JMeter**, **Gatling**, and **k6**.  
+  Load and stress testing for APIs and microservices with **JMeter** and **k6**.  
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### 📫 Contact Me  
 
-- **Email**: [your.email@example.com](mailto: saileshkumar17893@gmail.com)  
+- **Email**: [saileshkumar17893@gmail.com](mailto: saileshkumar17893@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/saileshkumar](https://www.linkedin.com/in/sailesh-kumar-5b7650251/)
 
 ---
