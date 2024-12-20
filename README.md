@@ -1,7 +1,7 @@
 <p align="center">
   <a href="www.linkedin.com/in/
 sailesh-kumar-17aug1993" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/banner.png" alt="My banner">
+    <img src="Images/White Minimalist Profile LinkedIn Banner (1).png" alt="My banner">
   </a>
 </p>
 
