@@ -34,8 +34,8 @@
 - [**API-Testing-Suite**](https://github.com/sailesh123kumar/APIFrameWork):  
   Comprehensive REST and GraphQL API test suite using **REST Assured** and **Postman/Newman**.  
 
-- [**Performance-Test-Scripts**](https://github.com/yourusername/Performance-Test-Scripts):  
-  Load and stress testing for APIs and microservices with **JMeter** and **k6**.  
+- [**Student Management System**](https://github.com/yourusername/Performance-Test-Scripts):  
+  A Java-based console application for managing student enrollment, course registration, and data retrieval, leveraging **Java Streams** for efficient student searches and operations, with robust input validation and sorting features..  
 
 ---
 
