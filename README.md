@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="www.linkedin.com/in/
-sailesh-kumar-17aug1993" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/sailesh-kumar-17Aug1993/" target="_blank" rel="noreferrer">
     <img src="Images/White Minimalist Profile LinkedIn Banner (1).png" alt="My banner">
   </a>
 </p>
