@@ -16,14 +16,6 @@
 - 🌱 Currently learning AI-driven test generation and advanced load testing techniques.  
 - 🌟 Open-source enthusiast and contributor to testing tools.
 
-### 🤝 Connect with me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sailesh-kumar-5b7650251//">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
-  </a>
-</p>
-
 ---
 
 ### 🚀 Highlighted Projects  
@@ -63,10 +55,8 @@
 
 ### 📫 Contact Me  
 
-
 <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto: saileshkumar17893@gmail.com">saileshkumar17893@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/sailesh-kumar-5b7650251/">LinkedIn</a>.</p>
 
----
 ---
 
 ## 📊 GitHub Stats  
