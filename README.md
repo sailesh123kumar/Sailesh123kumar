@@ -63,8 +63,8 @@
 
 ### 📫 Contact Me  
 
-- **Email**: [saileshkumar17893@gmail.com](mailto: saileshkumar17893@gmail.com)
-- <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto: saileshkumar17893@gmail.com">saileshkumar17893@gmail.com</a> or connect with me on <a href="[https://www.linkedin.com/in/sailesh-kumar-5b7650251/](https://www.linkedin.com/in/sailesh-kumar-5b7650251/)">LinkedIn</a>.</p>
+
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto: saileshkumar17893@gmail.com">saileshkumar17893@gmail.com</a> or connect with me on <a href="[https://www.linkedin.com/in/sailesh-kumar-5b7650251/](https://www.linkedin.com/in/sailesh-kumar-5b7650251/)">LinkedIn</a>.</p>
 - **LinkedIn**: [linkedin.com/in/saileshkumar](https://www.linkedin.com/in/sailesh-kumar-5b7650251/)
 
 ---
