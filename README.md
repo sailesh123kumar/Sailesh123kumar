@@ -21,7 +21,10 @@
 ### 🚀 Highlighted Projects  
 
 - [**E2E-Test-UI-Automation-Framework**](https://github.com/sailesh123kumar/OpenCartAutomationFrameWork):  
-  A customizable test automation framework using Selenium and TestNG for web applications.  
+  A customizable test automation framework using Selenium and TestNG for web applications.
+
+  - [**OrangeHRM Project**](https://github.com/sailesh123kumar/OrangeHRMproject):  
+  An automated test framework using Selenium and TestNG for the OrangeHRM application, validating its core functionalities.  
 
 - [**API-Testing-Suite**](https://github.com/sailesh123kumar/APIFrameWork):  
   Comprehensive REST and GraphQL API test suite using **REST Assured** and **Postman/Newman**.  
