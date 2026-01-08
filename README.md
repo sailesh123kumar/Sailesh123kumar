@@ -62,14 +62,41 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-| **Metric**                | **Details**                                                                                         |
-|---------------------------|-----------------------------------------------------------------------------------------------------|
-| **🏆 Total Contributions** | ![Contributions](https://github-readme-stats.vercel.app/api?username=Sailesh123kumar&show_icons=true&count_private=true&hide=prs&theme=radical) |
-| **📂 Languages Used**      | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sailesh123kumar&layout=compact&theme=radical)                |
-| **⭐ Total Stars**          | ![Stars](https://github-readme-stats.vercel.app/api?username=Sailesh123kumar&show_icons=true&count_private=true&hide=stars&theme=radical)  |
-| **🔥 Streak Stats**        | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sailesh123kumar&theme=radical)                                         |
+### 🧾 Profile Summary
+![Profile Details](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/0-profile-details.svg)
 
 ---
+
+### 📂 Languages Used
+![Languages](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/1-repos-per-language.svg)
+
+---
+
+### 📈 GitHub Stats
+![Stats](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/3-stats.svg)
+
+---
+
+### ⏱️ Productive Time
+![Productive Time](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/4-productive-time.svg)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sailesh123kumar&theme=radical&no-frame=true)
+
+---
+
+### 📊 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sailesh123kumar&theme=react-dark)
+
+---
+
+### ⭐ Quick Stats
+![Stars](https://img.shields.io/github/stars/Sailesh123kumar?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Sailesh123kumar?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/y/Sailesh123kumar?style=for-the-badge)
+
 Feel free to fork or explore my repositories to see how I build robust, scalable, and efficient automation solutions! ✨  
