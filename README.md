@@ -64,39 +64,31 @@
 
 ## 📊 GitHub Stats
 
-### 🧾 Profile Summary
-![Profile Details](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/0-profile-details.svg)
-
----
-
-### 📂 Languages Used
-![Languages](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/1-repos-per-language.svg)
-
----
-
-### 📈 GitHub Stats
-![Stats](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/3-stats.svg)
-
----
-
-### ⏱️ Productive Time
-![Productive Time](https://raw.githubusercontent.com/Sailesh123kumar/github-profile-summary-cards/main/profile-summary-card-output/radical/4-productive-time.svg)
-
----
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sailesh123kumar&theme=radical&no-frame=true)
-
----
-
-### 📊 Activity Graph
+### 🔥 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sailesh123kumar&theme=react-dark)
 
 ---
 
-### ⭐ Quick Stats
-![Stars](https://img.shields.io/github/stars/Sailesh123kumar?style=for-the-badge)
+### 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sailesh123kumar&theme=darkhub&no-frame=true&row=1&column=6)
+
+---
+
+### 📈 GitHub Overview
 ![Followers](https://img.shields.io/github/followers/Sailesh123kumar?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Sailesh123kumar?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-size/Sailesh123kumar/Sailesh123kumar?style=for-the-badge)
+
+---
+
+### 🛠️ Contribution Stats
 ![Commits](https://img.shields.io/github/commit-activity/y/Sailesh123kumar?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Sailesh123kumar/Sailesh123kumar?style=for-the-badge)
+
+---
+
+### 🧑‍💻 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Sailesh123kumar&style=for-the-badge)
+
 
 Feel free to fork or explore my repositories to see how I build robust, scalable, and efficient automation solutions! ✨  
